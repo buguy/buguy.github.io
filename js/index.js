@@ -15,7 +15,6 @@ const perform_submit=form.addEventListener('submit', e => {
     $("textarea#link").val('');
 })
 
-
 $("#label_mo2").click(function(){
     $("#label_mo2").toggleClass( "fas fa-minus-square", 1000 );
     $("#label_mo2").toggleClass( "fas fa-plus-square", 1000 );
