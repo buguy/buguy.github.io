@@ -25,5 +25,4 @@ $("#label_pc2").click(function(){
     $("#label_pc2").toggleClass( "fas fa-plus-square", 1000 );
 })
 
-
 });	
